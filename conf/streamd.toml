@@ -1,0 +1,4 @@
+title = "This is a streamd config file"
+
+[streamd]
+port = 9990
